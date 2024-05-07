@@ -74,16 +74,16 @@ html {
 }
 
 #header .search-button {
-  float:right;
+  float: right;
   padding: 0 21px;
   cursor: pointer;
 }
 
 #header .search-button:hover {
-  background-color: #f44336!important;
+  background-color: #f44336 !important;
 }
 
-#header .search-icon{
+#header .search-icon {
   color: #fff;
   font-size: 20px;
   line-height: 46px;
